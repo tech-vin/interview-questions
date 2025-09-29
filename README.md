@@ -1,1 +1,11 @@
-Here I will post questions that were asked during my job search for the Python related roles.
+Companies, Contact information and Interview Experience
+
+- Apexon
+- ArivonixAI
+- Brillio
+- Carelon
+- EY
+- HCLTech
+- Infosys
+- TCS
+- Wipro
